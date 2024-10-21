@@ -43,10 +43,3 @@ The dataset used in this project can be found at the [Dataquest Project Reposito
 
 6. **Prediction Function**  
    A function is created to make predictions based on the model.
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name

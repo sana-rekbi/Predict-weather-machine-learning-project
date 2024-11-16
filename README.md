@@ -21,8 +21,28 @@ In this project, you will:
 - **Machine Learning Model**: Ridge Regression
 
 ## Dataset
+1. **Access the NOAA website**  
+   Go to [NOAA Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/search).
 
-The dataset used in this project can be found at the [Dataquest Project Repository](https://github.com/dataquestio/project-weather).
+2. **Search for Data**  
+   - Enter the years you want (e.g., starting from 1970).
+   - Search for the closest airport to you, or use your city/country name if no airport is available.
+
+3. **Add to Cart**  
+   - Click **Add to Cart** for the selected airport/location.
+   - If you can't find an airport nearby, try your city or country name instead.
+
+4. **Download Data**  
+   - Go to your cart: [NOAA Cart](https://www.ncdc.noaa.gov/cdo-web/cart).
+   - Select **CSV** format and click **Continue**.
+   - Check all the boxes for data types.
+   - Enter your email and click **Continue**.
+
+5. **Receive Download Link**  
+   You'll receive an email with a link to download the data. Download the CSV file provided.
+
+6. **Data Documentation**  
+   Review the [NOAA data documentation](https://www.ncdc.noaa.gov/cdo-web/datatools/documentation) to understand the column formats and data types.
 
 ### Steps
 
